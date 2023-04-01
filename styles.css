@@ -78,10 +78,11 @@ cursor: pointer;
 
 .p{
 
-    text-align: center;
+    text-align: left;
     text-transform: inherit;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url(/Img/descarga.jpeg);
     border-image: 60px;
-
+    top: 30%;
+    right: 40%;
 }
